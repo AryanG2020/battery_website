@@ -1,0 +1,5 @@
+{
+  "name": "JES Glass Battery Explorer",
+  "description": "Interactive 3D visualization of Johnson Energy Storage's Glass Electrolyte Solid-State Battery technology.",
+  "requestFramePermissions": []
+}
